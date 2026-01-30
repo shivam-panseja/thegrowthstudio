@@ -6,8 +6,8 @@ interface FooterProps {
 
 export default function Footer({ onNavigate }: FooterProps) {
   const socialLinks = [
-    { icon: Instagram, url: 'https://instagram.com/yourpage', label: 'Instagram' },
-    { icon: Facebook, url: 'https://facebook.com/yourpage', label: 'Facebook' },
+    { icon: Instagram, url: 'https://www.instagram.com/thegrowthstudio.work?igsh=aTFoMnplNzIzeG04', label: 'Instagram' },
+    { icon: Facebook, url: 'https://www.facebook.com/share/1ahkZBj4EB/', label: 'Facebook' },
     { icon: Linkedin, url: 'https://linkedin.com/company/yourpage', label: 'LinkedIn' },
   ];
 
